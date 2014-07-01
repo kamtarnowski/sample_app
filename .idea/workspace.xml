@@ -2,65 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82bc0aa-9886-4f14-98d6-060c2c22361b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.secret" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/secret_token.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="secret_token.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6554622" vertical-offset="0" max-vertical-offset="595">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
               <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10084034" vertical-offset="0" max-vertical-offset="595">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -118,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -264,6 +219,9 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="false" name="test: sample_app" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="sample_app" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -383,6 +341,11 @@
       <created>1404228792708</created>
       <updated>1404228792708</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1404229447090</created>
+      <updated>1404229447090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +353,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -399,7 +362,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -425,6 +388,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -454,10 +419,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6554622" vertical-offset="0" max-vertical-offset="595">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10084034" vertical-offset="0" max-vertical-offset="595">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>
