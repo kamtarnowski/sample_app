@@ -18,5 +18,3 @@ doc/
 .DS_Store
 .idea
 .secret
-/.idea/
-.idea/workspace.xml
