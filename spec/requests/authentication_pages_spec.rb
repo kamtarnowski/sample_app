@@ -82,6 +82,15 @@ describe "Authentication" do
           it { should have_title('Sign in') }
         end
       end
+
+      describe "non signed in user should not see editable links" do
+
+        before {visit root_path}
+
+        it {should_not have_link('Profile')}
+        it {should_not have_link('Settings')}
+
+      end
     end
 
     describe "as non-admin user" do
