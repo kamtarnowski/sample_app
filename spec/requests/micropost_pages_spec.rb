@@ -42,4 +42,36 @@ describe "Micropost pages" do
       end
     end
   end
+
+  describe "micropost count" do
+    describe "as new user" do
+      before { visit root_path }
+      it { should have_content('0 microposts') }
+    end
+    describe "with one micropost" do
+      before do
+        FactoryGirl.create(:micropost, user: user)
+        visit root_path
+      end
+      it { should have_content(/1 micropost[^s]/) }
+    end
+    describe "with two microposts" do
+      before do
+        FactoryGirl.create(:micropost, user: user)
+        FactoryGirl.create(:micropost, user: user)
+        visit root_path
+      end
+      it { should have_content('2 microposts') }
+    end
+  end
+
+  describe "micropost pagination" do
+
+    before do
+      50.times { FactoryGirl.create(:micropost, user: user)}
+      visit root_path
+    end
+
+    it {should have_selector('div.pagination', maximum: 30)}
+  end
 end
